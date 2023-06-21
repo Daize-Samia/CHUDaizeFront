@@ -1,0 +1,142 @@
+{
+    "Cardiopathies congénitales": {
+        "id": 1,
+        "name": "Cardiopathies congénitales",
+        "maladies": [
+            "Communication inter-ventriculaire (CIV)",
+            "Communication inter-auriculaire (CIA)",
+            "Canal atrio-ventriculaire complet",
+            "Canal atrio-ventriculaire partiel",
+            "Oreillette unique",
+            "Canal artériel",
+            "Fenêtre Aorto-pulmonaire",
+            "Tronc artériel commun",
+            "Artère pulmonaire droite naissant de l’aorte", 
+            "Sténose valvulaire pulmonaire",
+            "Sténose sous valvulaire pulmonaire",
+            "Sténose supra valvulaire pulmonaire",
+            "Agénésie des valves pulmonaires à septum interventriculaire intact",
+            "Maladie d’Ebstein",
+            "Atrésie pulmonaire a septum ouvert (APSO)",
+            "Atrésie pulmonaire a septum intact (APSI)",
+            "Tétralogie de Fallot",
+            "Cœur triatrial",
+            "Rétrécissement mitral congénital",
+            "Insuffisance mitrale congénitale",
+            "Sténose valvulaire aortique",
+            "Sténose sous valvulaire aortique",
+            "Sténose supra valvulaire aortique",
+            "Coarctation de l’aorte",
+            "Interruption de l’arc aortique",
+            "Transposition des Gros Vaisseaux (TGV)",
+            "Retour veineux pulmonaire anormal total non bloqué",
+            "Retour veineux pulmonaire anormal total bloqué",
+            "Atrésie tricuspide",
+            "Atrésie aortique",
+            "Hypoplasie du cœur gauche",
+            "Ventricule unique",
+            "Malpositions cardiaques",
+            "Anomalies des artères coronaires",
+            "Anomalies des arcs aortiques",
+            "Autres"
+        ]
+
+    },
+    "Cardiopathies acquises":{
+        "id": 2,
+        "name": "Cardiopathies acquises",
+        "maladies": [
+            "Rhumatisme articulaire aigu sans cardite",
+            "Rhumatisme articulaire aigu avec valvulopathie rhumatismal mitral",
+            "Rhumatisme articulaire aigu avec valvulopathie rhumatismal aortique",
+            "Kawasaki avec atteinte cardiaque",
+            "Kawasaki sans atteinte cardiaque",
+            "Trouble du rythme",
+            "Péricardites",
+            "Myocardites",
+            "Cardiomyopathies", 
+            "Hypertension artérielle (HTA)",
+            "Hypertension artérielle Pulmonaire (HTAP)",
+            "Tumeurs cardiaques",
+            "Autres"
+        ]
+
+    },
+    "Suspicion de cardiopathies": {
+        "id" : 3,
+        "name": "Suspicion de cardiopathies",
+        "maladies":[
+            "Retard staturo pondéral",
+            "Myopathie",
+            "Souffle cardiaque",
+            "Préchimiothérapie",
+            "Cyanose"
+        ] 
+
+    },
+    "Vasculaire": {
+        "id": 4,
+        "name": "Vasculaire",
+        "maladies": [
+            "Accident vasculaire cérébral (AVC)",
+            "Angiome",
+            "Malformations artério-veineuses",
+            "Hypertension artérielle sur sténose de l’artère rénale", 
+            "Malformations vasculaires",
+            "Autres"
+        ]
+    },
+    "Rhumatologie": {
+        "id": 5,
+        "name": "Rhumatologie",
+        "maladies": [
+            "Fièvre prolongée",
+            "Arthrite juvénile idiopathique",
+            "Lupus",
+            "Dermatomyosite",
+            "Arthralgies",
+            "Psoriasis",
+            "Behçet",
+            "Périartérite noueuse",
+            "Maladie de Still",
+            "Takayasu", 
+            "Purpura rhumatoïde",
+            "Syndrome inflammatoire inexpliqué",
+            "Maladies auto-inflammatoires",
+            "Fièvre méditerranéenne familiale (FMF)",
+            "Sclérodermie", 
+            "Sarcoïdose",
+            "Autres"
+        ]
+    },
+    "Génétique": {
+        "id": 6,
+        "name": "Génétique",
+        "maladies": [
+            "Trisomie 21",
+            "Trisomie 18",
+            "Syndrome de cornea de lange", 
+            "Syndrome de Noonan",
+            "Syndrome de Digeorge", 
+            "Syndrome de Marfan",
+            "Williams beuren",
+            "Syndrome de régression caudale",
+            "Syndrome de Turner",
+            "Syndrome de Klinfelter", 
+            "Syndrome d’alagille",
+            "Syndrome de Crouzon", 
+            "Autres"
+        ]
+    },
+    "Autres": {
+        "id": 7,
+        "name": "Autres",
+        "maladies": [
+            "ADEM (encéphalomyélite aigue disséminée)",
+            "Myopathies",
+            "Retard staturo pondéral",
+            "Retard psycho-moteur",
+            "Retard  mental"
+        ]
+    }
+}
