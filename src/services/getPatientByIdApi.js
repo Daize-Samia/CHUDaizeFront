@@ -1,5 +1,4 @@
 import { createApi } from '@reduxjs/toolkit/query/react';
-import { getAllPatientsBaseQuery } from './functions';
 import { addPatientBaseQuery } from './functions';
 
 
@@ -9,7 +8,7 @@ export const getPatientByIdApi = createApi({
     endpoints: (builder) => ({
         getPatient: builder.query({
             query: (id) => ({
-                url: `/api/patients/${id}`,
+                url: `/api/patients?iP=${id}`,
                 method: 'GET',
             })
         }),
